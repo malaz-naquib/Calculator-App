@@ -4,7 +4,7 @@ I imagine this app needs no introduction! It's a simple calculator app that I bu
 
 **Check it out here:** https://calculator-app-mn.netlify.app/
 
-![calculator-gif](https://github.com/malaz-naquib/Calculator-App/assets/113329798/91d4802c-a2b6-4ee5-b321-49b4409557f1)
+![calculator](https://github.com/malaz-naquib/Calculator-App/assets/113329798/3b83610e-4cd9-47a7-b902-e5d97971e24e)
 
 ## Description:
 
